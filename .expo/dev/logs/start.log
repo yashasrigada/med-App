@@ -1,0 +1,612 @@
+{"_e":"root:init","_t":1789274402639,"format":"v0-jsonl","version":"57.0.24"}
+{"_e":"env:mode","_t":1789274402661,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1789274402681,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1789274407067,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1789274409971,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1789274411811,"plugins":[]}
+{"_e":"metro:instantiate","_t":1789274420229,"atlas":false,"workers":6,"host":"::","port":8081}
+{"_e":"metro:client_log","_t":1789274441860,"level":"error","data":["Project is incompatible with this version of Expo Go\n\n• The installed version of Expo Go is for SDK 57.0.0.\n• The project you opened uses SDK 51.\n\nHow to fix this error:\n\nEither upgrade this project to SDK 57.0.0, or launch it in an iOS simulator. It is not possible to install an older version of Expo Go for iOS devices, only the latest version is supported.\n\n[Learn how to upgrade to SDK 57.](https://docs.expo.dev/workflow/upgrading-expo-sdk-walkthrough/)\n\n[https://expo.dev/go?sdkVersion=51&platform=ios&device=false](Learn how to install Expo Go for SDK 51 in an iOS Simulator.)"]}
+{"_e":"metro:client_log","_t":1789274441865,"level":"error","data":["Project is incompatible with this version of Expo Go\n\n• The installed version of Expo Go is for SDK 57.0.0.\n• The project you opened uses SDK 51.\n\nHow to fix this error:\n\nEither upgrade this project to SDK 57.0.0, or launch it in an iOS simulator. It is not possible to install an older version of Expo Go for iOS devices, only the latest version is supported.\n\n[Learn how to upgrade to SDK 57.](https://docs.expo.dev/workflow/upgrading-expo-sdk-walkthrough/)\n\n[https://expo.dev/go?sdkVersion=51&platform=ios&device=false](Learn how to install Expo Go for SDK 51 in an iOS Simulator.)"]}
+{"_e":"metro:client_log","_t":1789274441903,"level":"error","data":["Project is incompatible with this version of Expo Go\n\n• The installed version of Expo Go is for SDK 57.0.0.\n• The project you opened uses SDK 51.\n\nHow to fix this error:\n\nEither upgrade this project to SDK 57.0.0, or launch it in an iOS simulator. It is not possible to install an older version of Expo Go for iOS devices, only the latest version is supported.\n\n[Learn how to upgrade to SDK 57.](https://docs.expo.dev/workflow/upgrading-expo-sdk-walkthrough/)\n\n[https://expo.dev/go?sdkVersion=51&platform=ios&device=false](Learn how to install Expo Go for SDK 51 in an iOS Simulator.)"]}
+{"_e":"metro:client_log","_t":1789274463863,"level":"error","data":["Project is incompatible with this version of Expo Go\n\n• The installed version of Expo Go is for SDK 57.0.0.\n• The project you opened uses SDK 51.\n\nHow to fix this error:\n\nEither upgrade this project to SDK 57.0.0, or launch it in an iOS simulator. It is not possible to install an older version of Expo Go for iOS devices, only the latest version is supported.\n\n[Learn how to upgrade to SDK 57.](https://docs.expo.dev/workflow/upgrading-expo-sdk-walkthrough/)\n\n[https://expo.dev/go?sdkVersion=51&platform=ios&device=false](Learn how to install Expo Go for SDK 51 in an iOS Simulator.)"]}
+{"_e":"metro:client_log","_t":1789274476982,"level":"error","data":["Project is incompatible with this version of Expo Go\n\n• The installed version of Expo Go is for SDK 57.0.0.\n• The project you opened uses SDK 51.\n\nHow to fix this error:\n\nEither upgrade this project to SDK 57.0.0, or launch it in an iOS simulator. It is not possible to install an older version of Expo Go for iOS devices, only the latest version is supported.\n\n[Learn how to upgrade to SDK 57.](https://docs.expo.dev/workflow/upgrading-expo-sdk-walkthrough/)\n\n[https://expo.dev/go?sdkVersion=51&platform=ios&device=false](Learn how to install Expo Go for SDK 51 in an iOS Simulator.)"]}
+{"_e":"metro:client_log","_t":1789274503711,"level":"error","data":["Project is incompatible with this version of Expo Go\n\n• The installed version of Expo Go is for SDK 57.0.0.\n• The project you opened uses SDK 51.\n\nHow to fix this error:\n\nEither upgrade this project to SDK 57.0.0, or launch it in an iOS simulator. It is not possible to install an older version of Expo Go for iOS devices, only the latest version is supported.\n\n[Learn how to upgrade to SDK 57.](https://docs.expo.dev/workflow/upgrading-expo-sdk-walkthrough/)\n\n[https://expo.dev/go?sdkVersion=51&platform=ios&device=false](Learn how to install Expo Go for SDK 51 in an iOS Simulator.)"]}
+{"_e":"root:init","_t":1789274762959,"format":"v0-jsonl","version":"57.0.24"}
+{"_e":"env:mode","_t":1789274762959,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1789274762964,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1789274763295,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1789274763814,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1789274764191,"plugins":[]}
+{"_e":"metro:instantiate","_t":1789274768320,"atlas":false,"workers":6,"host":"::","port":8081}
+{"_e":"root:init","_t":1789275191732,"format":"v0-jsonl","version":"57.0.24"}
+{"_e":"env:mode","_t":1789275191732,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1789275191735,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1789275191955,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1789275192262,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1789275192529,"plugins":[]}
+{"_e":"metro:instantiate","_t":1789275196527,"atlas":false,"workers":6,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1789275247665,"id":"1","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789275247666,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789275247674,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789275248185,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:failed","_t":1789275248195,"id":"1","message":"Unable to resolve \"../../App\" from \"node_modules\\expo\\AppEntry.js\"\n  1 | import registerRootComponent from 'expo/src/launch/registerRootComponent';\n  2 |\n> 3 | import App from '../../App';\n    |                  ^\n  4 |\n  5 | registerRootComponent(App);\n  6 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90mnode_modules\\expo\\AppEntry.js\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"../../App\"\u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"./node_modules/\u001b[1mexpo\u001b[22m/AppEntry\"\u001b[39m\u001b[90m\u001b[39m\n","filename":null,"targetModuleName":"../../App","originModulePath":"node_modules\\expo\\AppEntry.js"}
+{"_e":"root:init","_t":1789275355200,"format":"v0-jsonl","version":"57.0.24"}
+{"_e":"env:mode","_t":1789275355201,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1789275355203,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1789275355407,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1789275355710,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1789275355976,"plugins":[]}
+{"_e":"metro:instantiate","_t":1789275359787,"atlas":false,"workers":6,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1789275369093,"id":"1","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789275369095,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789275369101,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789275369458,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1789275369558,"id":"1","progress":0.010000000000000002,"total":3,"current":1}
+{"_e":"metro:bundling:progress","_t":1789275369572,"id":"1","progress":0.04000000000000001,"total":3,"current":2}
+{"_e":"metro:bundling:failed","_t":1789275369896,"id":"1","message":"SyntaxError: C:\\Users\\surve\\OneDrive\\Documents\\med app\\node_modules\\expo\\src\\launch\\registerRootComponent.tsx: Unexpected token, expected \"from\" (3:12)\n\n  1 | import '../Expo.fx';\n  2 |\n> 3 | import type { ComponentType } from 'react';\n    |             ^\n  4 | import { AppRegistry, Platform } from 'react-native';\n  5 |\n  6 | declare namespace globalThis {","importStack":null,"filename":"node_modules\\expo\\src\\launch\\registerRootComponent.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1789275468987,"id":"2","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789275468987,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789275468990,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:failed","_t":1789275469010,"id":"2","message":"SyntaxError: C:\\Users\\surve\\OneDrive\\Documents\\med app\\node_modules\\expo\\src\\launch\\registerRootComponent.tsx: Unexpected token, expected \"from\" (3:12)\n\n  1 | import '../Expo.fx';\n  2 |\n> 3 | import type { ComponentType } from 'react';\n    |             ^\n  4 | import { AppRegistry, Platform } from 'react-native';\n  5 |\n  6 | declare namespace globalThis {","importStack":null,"filename":"node_modules\\expo\\src\\launch\\registerRootComponent.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"root:init","_t":1789275550802,"format":"v0-jsonl","version":"57.0.24"}
+{"_e":"env:mode","_t":1789275550803,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1789275550805,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1789275551034,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1789275551342,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1789275551594,"plugins":[]}
+{"_e":"metro:instantiate","_t":1789275556206,"atlas":false,"workers":6,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1789275563309,"id":"1","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789275563310,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789275563313,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789275566424,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1789275566525,"id":"1","progress":0.010000000000000002,"total":3,"current":1}
+{"_e":"metro:bundling:progress","_t":1789275566593,"id":"1","progress":0.04000000000000001,"total":3,"current":2}
+{"_e":"metro:bundling:progress","_t":1789275566693,"id":"1","progress":0.09,"total":8,"current":3}
+{"_e":"metro:bundling:progress","_t":1789275566755,"id":"1","progress":0.16000000000000003,"total":8,"current":4}
+{"_e":"metro:bundling:progress","_t":1789275566856,"id":"1","progress":0.16000000000000003,"total":107,"current":4}
+{"_e":"metro:bundling:progress","_t":1789275567443,"id":"1","progress":0.16000000000000003,"total":107,"current":5}
+{"_e":"metro:bundling:progress","_t":1789275567543,"id":"1","progress":0.16000000000000003,"total":109,"current":8}
+{"_e":"metro:bundling:progress","_t":1789275567650,"id":"1","progress":0.16000000000000003,"total":111,"current":11}
+{"_e":"metro:bundling:progress","_t":1789275567749,"id":"1","progress":0.16000000000000003,"total":121,"current":15}
+{"_e":"metro:bundling:progress","_t":1789275567850,"id":"1","progress":0.16000000000000003,"total":125,"current":18}
+{"_e":"metro:bundling:progress","_t":1789275567950,"id":"1","progress":0.16000000000000003,"total":138,"current":26}
+{"_e":"metro:bundling:progress","_t":1789275568060,"id":"1","progress":0.16000000000000003,"total":142,"current":29}
+{"_e":"metro:bundling:progress","_t":1789275568126,"id":"1","progress":0.16000000000000003,"total":142,"current":30}
+{"_e":"metro:bundling:progress","_t":1789275568231,"id":"1","progress":0.16000000000000003,"total":158,"current":37}
+{"_e":"metro:bundling:progress","_t":1789275568340,"id":"1","progress":0.16000000000000003,"total":166,"current":48}
+{"_e":"metro:bundling:progress","_t":1789275568441,"id":"1","progress":0.16000000000000003,"total":180,"current":60}
+{"_e":"metro:bundling:progress","_t":1789275568540,"id":"1","progress":0.16000000000000003,"total":191,"current":73}
+{"_e":"metro:bundling:progress","_t":1789275568773,"id":"1","progress":0.16000000000000003,"total":205,"current":81}
+{"_e":"metro:bundling:progress","_t":1789275568872,"id":"1","progress":0.19011253116506818,"total":211,"current":92}
+{"_e":"metro:bundling:progress","_t":1789275568973,"id":"1","progress":0.23468641975308643,"total":225,"current":109}
+{"_e":"metro:bundling:progress","_t":1789275569073,"id":"1","progress":0.2581961795227709,"total":246,"current":125}
+{"_e":"metro:bundling:progress","_t":1789275569178,"id":"1","progress":0.28416781480416053,"total":257,"current":137}
+{"_e":"metro:bundling:progress","_t":1789275569295,"id":"1","progress":0.3283676303497033,"total":267,"current":153}
+{"_e":"metro:bundling:progress","_t":1789275569395,"id":"1","progress":0.3283676303497033,"total":284,"current":161}
+{"_e":"metro:bundling:progress","_t":1789275569513,"id":"1","progress":0.34027777777777785,"total":300,"current":175}
+{"_e":"metro:bundling:progress","_t":1789275569613,"id":"1","progress":0.3674224852071006,"total":325,"current":197}
+{"_e":"metro:bundling:progress","_t":1789275569718,"id":"1","progress":0.3674224852071006,"total":354,"current":214}
+{"_e":"metro:bundling:progress","_t":1789275569832,"id":"1","progress":0.38158853906891443,"total":361,"current":223}
+{"_e":"metro:bundling:progress","_t":1789275570033,"id":"1","progress":0.3966911876926833,"total":362,"current":228}
+{"_e":"metro:bundling:progress","_t":1789275570195,"id":"1","progress":0.4001785659778395,"total":362,"current":229}
+{"_e":"metro:bundling:progress","_t":1789275570794,"id":"1","progress":0.4001785659778395,"total":365,"current":230}
+{"_e":"metro:bundling:progress","_t":1789275570979,"id":"1","progress":0.4001785659778395,"total":366,"current":230}
+{"_e":"metro:bundling:progress","_t":1789275571099,"id":"1","progress":0.4001785659778395,"total":366,"current":231}
+{"_e":"metro:bundling:progress","_t":1789275571206,"id":"1","progress":0.4001785659778395,"total":382,"current":240}
+{"_e":"metro:bundling:progress","_t":1789275571312,"id":"1","progress":0.4226697298365931,"total":383,"current":249}
+{"_e":"metro:bundling:progress","_t":1789275571424,"id":"1","progress":0.43309256481255076,"total":389,"current":256}
+{"_e":"metro:bundling:progress","_t":1789275571534,"id":"1","progress":0.453561016243232,"total":392,"current":264}
+{"_e":"metro:bundling:progress","_t":1789275571633,"id":"1","progress":0.45445038489146306,"total":402,"current":271}
+{"_e":"metro:bundling:progress","_t":1789275571748,"id":"1","progress":0.4711720774272215,"total":405,"current":278}
+{"_e":"metro:bundling:progress","_t":1789275571852,"id":"1","progress":0.5127267184880353,"total":405,"current":290}
+{"_e":"metro:bundling:progress","_t":1789275571960,"id":"1","progress":0.5515246539792388,"total":408,"current":303}
+{"_e":"metro:bundling:progress","_t":1789275572062,"id":"1","progress":0.5869242029835784,"total":419,"current":321}
+{"_e":"metro:bundling:progress","_t":1789275572163,"id":"1","progress":0.6287557093425606,"total":425,"current":337}
+{"_e":"metro:bundling:progress","_t":1789275572264,"id":"1","progress":0.6546280991735537,"total":440,"current":356}
+{"_e":"metro:bundling:progress","_t":1789275572365,"id":"1","progress":0.6546280991735537,"total":470,"current":377}
+{"_e":"metro:bundling:progress","_t":1789275572469,"id":"1","progress":0.6546280991735537,"total":487,"current":393}
+{"_e":"metro:bundling:progress","_t":1789275572578,"id":"1","progress":0.6916300828228054,"total":493,"current":410}
+{"_e":"metro:bundling:progress","_t":1789275572679,"id":"1","progress":0.6922503085503601,"total":506,"current":421}
+{"_e":"metro:bundling:progress","_t":1789275572779,"id":"1","progress":0.7136764177998387,"total":509,"current":430}
+{"_e":"metro:bundling:progress","_t":1789275572881,"id":"1","progress":0.7238184303827894,"total":516,"current":439}
+{"_e":"metro:bundling:progress","_t":1789275572981,"id":"1","progress":0.7458677685950413,"total":528,"current":456}
+{"_e":"metro:bundling:progress","_t":1789275573082,"id":"1","progress":0.8039212222285035,"total":532,"current":477}
+{"_e":"metro:bundling:progress","_t":1789275573182,"id":"1","progress":0.8163575094399372,"total":539,"current":487}
+{"_e":"metro:bundling:progress","_t":1789275573295,"id":"1","progress":0.8279661818771626,"total":544,"current":495}
+{"_e":"metro:bundling:progress","_t":1789275573408,"id":"1","progress":0.8446800113865741,"total":556,"current":511}
+{"_e":"metro:bundling:progress","_t":1789275573508,"id":"1","progress":0.8446800113865741,"total":576,"current":525}
+{"_e":"metro:bundling:progress","_t":1789275573611,"id":"1","progress":0.8446800113865741,"total":576,"current":527}
+{"_e":"metro:bundling:progress","_t":1789275573625,"id":"1","progress":0.8446800113865741,"total":576,"current":528}
+{"_e":"metro:bundling:progress","_t":1789275573733,"id":"1","progress":0.8489181094309298,"total":585,"current":539}
+{"_e":"metro:bundling:progress","_t":1789275573833,"id":"1","progress":0.8738185255198488,"total":598,"current":559}
+{"_e":"metro:bundling:progress","_t":1789275573936,"id":"1","progress":0.8738185255198488,"total":627,"current":577}
+{"_e":"metro:bundling:progress","_t":1789275574037,"id":"1","progress":0.8738185255198488,"total":639,"current":586}
+{"_e":"metro:bundling:progress","_t":1789275574138,"id":"1","progress":0.8738185255198488,"total":649,"current":596}
+{"_e":"metro:bundling:progress","_t":1789275574249,"id":"1","progress":0.8738185255198488,"total":654,"current":608}
+{"_e":"metro:bundling:progress","_t":1789275574349,"id":"1","progress":0.8828050127326329,"total":662,"current":622}
+{"_e":"metro:bundling:progress","_t":1789275574449,"id":"1","progress":0.903497276848832,"total":667,"current":634}
+{"_e":"metro:bundling:progress","_t":1789275574605,"id":"1","progress":0.9207953852773495,"total":668,"current":641}
+{"_e":"metro:bundling:progress","_t":1789275574706,"id":"1","progress":0.9207953852773495,"total":675,"current":645}
+{"_e":"metro:bundling:progress","_t":1789275574808,"id":"1","progress":0.9362486199708919,"total":679,"current":657}
+{"_e":"metro:bundling:progress","_t":1789275574908,"id":"1","progress":0.9482103545291503,"total":686,"current":668}
+{"_e":"metro:bundling:progress","_t":1789275575009,"id":"1","progress":0.9884058950784207,"total":688,"current":684}
+{"_e":"metro:bundling:progress","_t":1789275575119,"id":"1","progress":0.9942029107623214,"total":689,"current":687}
+{"_e":"metro:bundling:progress","_t":1789275575323,"id":"1","progress":0.9970993488807111,"total":689,"current":688}
+{"_e":"metro:bundling:progress","_t":1789275575433,"id":"1","progress":0.997111914865181,"total":692,"current":691}
+{"_e":"metro:bundling:progress","_t":1789275575764,"id":"1","progress":0.999,"total":692,"current":692}
+{"_e":"metro:bundling:progress","_t":1789275575865,"id":"1","progress":0.999,"total":703,"current":702}
+{"_e":"metro:bundling:progress","_t":1789275575970,"id":"1","progress":0.999,"total":703,"current":703}
+{"_e":"metro:bundling:done","_t":1789275576511,"id":"1","total":703,"ms":13201.8633}
+{"_e":"metro:bundling:started","_t":1789275644044,"id":"2","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789275644044,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789275644082,"id":"2","total":1,"ms":38.2898}
+{"_e":"metro:bundling:started","_t":1789275690005,"id":"3","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789275690005,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789275690034,"id":"3","total":1,"ms":28.9976}
+{"_e":"metro:client_log","_t":1789275690218,"level":"warn","data":["No native ExponentConstants module found, are you sure the expo-constants's module is linked properly?"]}
+{"_e":"metro:client_log","_t":1789275690219,"level":"error","data":["[runtime not ready]: Error: Cannot find native module 'ExpoAsset'"]}
+{"_e":"metro:client_log","_t":1789275690264,"level":"error","data":["[runtime not ready]: Invariant Violation: \"main\" has not been registered. This can happen if:\n* Metro (the local dev server) is run from the wrong folder. Check if Metro is running, stop it and restart it in the current project.\n* A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called."]}
+{"_e":"metro:client_log","_t":1789275698810,"level":"error","data":["[runtime not ready]: Error: Non-js exception: AppRegistryBinding::stopSurface failed. Global was not installed."]}
+{"_e":"metro:bundling:started","_t":1789275698835,"id":"4","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789275698835,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789275698859,"id":"4","total":1,"ms":23.686}
+{"_e":"metro:server_log","_t":1789275785556,"level":"error","data":["[timeout] connection terminated with Device for app='%s' on device='%s' after not responding for %s seconds.","host.exp.Exponent","iPhone","60"]}
+{"_e":"root:init","_t":1789275830260,"format":"v0-jsonl","version":"57.0.24"}
+{"_e":"env:mode","_t":1789275830261,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1789275830264,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1789275830596,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1789275831142,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1789275831513,"plugins":[]}
+{"_e":"metro:instantiate","_t":1789275835596,"atlas":false,"workers":6,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1789275841655,"id":"1","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789275841655,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789275841658,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789275842348,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1789275842449,"id":"1","progress":0.010000000000000002,"total":3,"current":1}
+{"_e":"metro:bundling:progress","_t":1789275842474,"id":"1","progress":0.04000000000000001,"total":3,"current":2}
+{"_e":"metro:bundling:progress","_t":1789275842589,"id":"1","progress":0.16000000000000003,"total":9,"current":4}
+{"_e":"metro:bundling:progress","_t":1789275843270,"id":"1","progress":0.25,"total":9,"current":5}
+{"_e":"metro:bundling:progress","_t":1789275843377,"id":"1","progress":0.2688614540466392,"total":27,"current":14}
+{"_e":"metro:bundling:progress","_t":1789275843504,"id":"1","progress":0.2688614540466392,"total":59,"current":22}
+{"_e":"metro:bundling:progress","_t":1789275843610,"id":"1","progress":0.2688614540466392,"total":184,"current":35}
+{"_e":"metro:bundling:progress","_t":1789275843710,"id":"1","progress":0.2688614540466392,"total":188,"current":55}
+{"_e":"metro:bundling:progress","_t":1789275843810,"id":"1","progress":0.2688614540466392,"total":190,"current":63}
+{"_e":"metro:bundling:progress","_t":1789275843939,"id":"1","progress":0.2688614540466392,"total":199,"current":69}
+{"_e":"metro:bundling:progress","_t":1789275844045,"id":"1","progress":0.2688614540466392,"total":218,"current":82}
+{"_e":"metro:bundling:progress","_t":1789275844145,"id":"1","progress":0.2688614540466392,"total":221,"current":87}
+{"_e":"metro:bundling:progress","_t":1789275844246,"id":"1","progress":0.2688614540466392,"total":245,"current":99}
+{"_e":"metro:bundling:progress","_t":1789275844348,"id":"1","progress":0.2688614540466392,"total":262,"current":118}
+{"_e":"metro:bundling:progress","_t":1789275844448,"id":"1","progress":0.2688614540466392,"total":287,"current":139}
+{"_e":"metro:bundling:progress","_t":1789275844549,"id":"1","progress":0.3173444444444445,"total":300,"current":169}
+{"_e":"metro:bundling:progress","_t":1789275844653,"id":"1","progress":0.39910304862685814,"total":315,"current":199}
+{"_e":"metro:bundling:progress","_t":1789275844753,"id":"1","progress":0.4249963018073285,"total":339,"current":221}
+{"_e":"metro:bundling:progress","_t":1789275844853,"id":"1","progress":0.4620944325211463,"total":356,"current":242}
+{"_e":"metro:bundling:progress","_t":1789275844954,"id":"1","progress":0.4620944325211463,"total":401,"current":267}
+{"_e":"metro:bundling:progress","_t":1789275845054,"id":"1","progress":0.4620944325211463,"total":427,"current":289}
+{"_e":"metro:bundling:progress","_t":1789275845192,"id":"1","progress":0.4620944325211463,"total":457,"current":302}
+{"_e":"metro:bundling:progress","_t":1789275845303,"id":"1","progress":0.4620944325211463,"total":457,"current":303}
+{"_e":"metro:bundling:progress","_t":1789275845417,"id":"1","progress":0.4620944325211463,"total":477,"current":319}
+{"_e":"metro:bundling:progress","_t":1789275845528,"id":"1","progress":0.47463182256004816,"total":479,"current":330}
+{"_e":"metro:bundling:progress","_t":1789275845629,"id":"1","progress":0.516051645147855,"total":490,"current":352}
+{"_e":"metro:bundling:progress","_t":1789275845731,"id":"1","progress":0.533912361533183,"total":505,"current":369}
+{"_e":"metro:bundling:progress","_t":1789275845833,"id":"1","progress":0.5728412149173394,"total":510,"current":386}
+{"_e":"metro:bundling:progress","_t":1789275845935,"id":"1","progress":0.622786571837973,"total":517,"current":408}
+{"_e":"metro:bundling:progress","_t":1789275846036,"id":"1","progress":0.6529632590507698,"total":521,"current":421}
+{"_e":"metro:bundling:progress","_t":1789275846136,"id":"1","progress":0.6730075445816187,"total":540,"current":443}
+{"_e":"metro:bundling:progress","_t":1789275846254,"id":"1","progress":0.6730075445816187,"total":565,"current":455}
+{"_e":"metro:bundling:progress","_t":1789275846419,"id":"1","progress":0.6730075445816187,"total":565,"current":456}
+{"_e":"metro:bundling:progress","_t":1789275846526,"id":"1","progress":0.6730075445816187,"total":584,"current":478}
+{"_e":"metro:bundling:progress","_t":1789275846626,"id":"1","progress":0.711381491684522,"total":594,"current":501}
+{"_e":"metro:bundling:progress","_t":1789275846727,"id":"1","progress":0.7282527568265892,"total":607,"current":518}
+{"_e":"metro:bundling:progress","_t":1789275846831,"id":"1","progress":0.7561436672967864,"total":621,"current":540}
+{"_e":"metro:bundling:progress","_t":1789275846933,"id":"1","progress":0.7677097505668934,"total":630,"current":552}
+{"_e":"metro:bundling:progress","_t":1789275847033,"id":"1","progress":0.7919880542700052,"total":636,"current":566}
+{"_e":"metro:bundling:progress","_t":1789275847133,"id":"1","progress":0.8153609537594197,"total":639,"current":577}
+{"_e":"metro:bundling:progress","_t":1789275847233,"id":"1","progress":0.8277320782006972,"total":643,"current":585}
+{"_e":"metro:bundling:progress","_t":1789275847350,"id":"1","progress":0.8323053254437869,"total":650,"current":593}
+{"_e":"metro:bundling:progress","_t":1789275847500,"id":"1","progress":0.8351147928994083,"total":650,"current":594}
+{"_e":"metro:bundling:progress","_t":1789275847603,"id":"1","progress":0.8490703808837086,"total":662,"current":610}
+{"_e":"metro:bundling:progress","_t":1789275847703,"id":"1","progress":0.8646224103363778,"total":670,"current":623}
+{"_e":"metro:bundling:progress","_t":1789275847804,"id":"1","progress":0.8818689021899679,"total":673,"current":632}
+{"_e":"metro:bundling:progress","_t":1789275847914,"id":"1","progress":0.9001369807219464,"total":683,"current":648}
+{"_e":"metro:bundling:progress","_t":1789275848014,"id":"1","progress":0.9314494321254734,"total":688,"current":664}
+{"_e":"metro:bundling:progress","_t":1789275848121,"id":"1","progress":0.9740831758034025,"total":690,"current":681}
+{"_e":"metro:bundling:progress","_t":1789275848226,"id":"1","progress":0.9942196652851109,"total":691,"current":689}
+{"_e":"metro:bundling:progress","_t":1789275848908,"id":"1","progress":0.9971077383183833,"total":691,"current":690}
+{"_e":"metro:bundling:progress","_t":1789275849014,"id":"1","progress":0.9971202318763547,"total":694,"current":693}
+{"_e":"metro:bundling:progress","_t":1789275849108,"id":"1","progress":0.999,"total":694,"current":694}
+{"_e":"metro:bundling:progress","_t":1789275849209,"id":"1","progress":0.999,"total":705,"current":705}
+{"_e":"metro:bundling:done","_t":1789275849444,"id":"1","total":705,"ms":7789.0371}
+{"_e":"root:init","_t":1789275999704,"format":"v0-jsonl","version":"57.0.24"}
+{"_e":"env:mode","_t":1789275999705,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1789275999708,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1789276000031,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1789276000582,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1789276000936,"plugins":[]}
+{"_e":"metro:instantiate","_t":1789276005088,"atlas":false,"workers":6,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1789276015672,"id":"1","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789276015672,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789276015677,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789276016387,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1789276016492,"id":"1","progress":0.010000000000000002,"total":3,"current":1}
+{"_e":"metro:bundling:progress","_t":1789276016532,"id":"1","progress":0.04000000000000001,"total":3,"current":2}
+{"_e":"metro:bundling:progress","_t":1789276016640,"id":"1","progress":0.20661157024793386,"total":11,"current":5}
+{"_e":"metro:bundling:progress","_t":1789276016744,"id":"1","progress":0.20661157024793386,"total":48,"current":5}
+{"_e":"metro:bundling:progress","_t":1789276016937,"id":"1","progress":0.20661157024793386,"total":48,"current":6}
+{"_e":"metro:bundling:progress","_t":1789276017039,"id":"1","progress":0.20661157024793386,"total":53,"current":8}
+{"_e":"metro:bundling:progress","_t":1789276017148,"id":"1","progress":0.20661157024793386,"total":56,"current":14}
+{"_e":"metro:bundling:progress","_t":1789276017247,"id":"1","progress":0.20661157024793386,"total":58,"current":23}
+{"_e":"metro:bundling:progress","_t":1789276017350,"id":"1","progress":0.24159724217178974,"total":59,"current":29}
+{"_e":"metro:bundling:progress","_t":1789276017452,"id":"1","progress":0.344923154446964,"total":63,"current":37}
+{"_e":"metro:bundling:progress","_t":1789276017551,"id":"1","progress":0.344923154446964,"total":89,"current":44}
+{"_e":"metro:bundling:progress","_t":1789276017655,"id":"1","progress":0.344923154446964,"total":97,"current":55}
+{"_e":"metro:bundling:progress","_t":1789276017759,"id":"1","progress":0.432184499314129,"total":108,"current":71}
+{"_e":"metro:bundling:progress","_t":1789276017859,"id":"1","progress":0.432184499314129,"total":209,"current":84}
+{"_e":"metro:bundling:progress","_t":1789276017960,"id":"1","progress":0.432184499314129,"total":219,"current":100}
+{"_e":"metro:bundling:progress","_t":1789276018063,"id":"1","progress":0.432184499314129,"total":221,"current":114}
+{"_e":"metro:bundling:progress","_t":1789276018164,"id":"1","progress":0.432184499314129,"total":234,"current":121}
+{"_e":"metro:bundling:progress","_t":1789276018271,"id":"1","progress":0.432184499314129,"total":249,"current":132}
+{"_e":"metro:bundling:progress","_t":1789276018373,"id":"1","progress":0.432184499314129,"total":265,"current":138}
+{"_e":"metro:bundling:progress","_t":1789276018476,"id":"1","progress":0.432184499314129,"total":285,"current":162}
+{"_e":"metro:bundling:progress","_t":1789276018576,"id":"1","progress":0.432184499314129,"total":315,"current":184}
+{"_e":"metro:bundling:progress","_t":1789276018677,"id":"1","progress":0.432184499314129,"total":332,"current":214}
+{"_e":"metro:bundling:progress","_t":1789276018776,"id":"1","progress":0.4369434070669348,"total":354,"current":234}
+{"_e":"metro:bundling:progress","_t":1789276018879,"id":"1","progress":0.4395062111560276,"total":359,"current":238}
+{"_e":"metro:bundling:progress","_t":1789276018982,"id":"1","progress":0.4491851516523314,"total":376,"current":252}
+{"_e":"metro:bundling:progress","_t":1789276019088,"id":"1","progress":0.4918198684432451,"total":385,"current":270}
+{"_e":"metro:bundling:progress","_t":1789276019188,"id":"1","progress":0.4918198684432451,"total":440,"current":299}
+{"_e":"metro:bundling:progress","_t":1789276019295,"id":"1","progress":0.4918198684432451,"total":461,"current":320}
+{"_e":"metro:bundling:progress","_t":1789276019398,"id":"1","progress":0.4918198684432451,"total":495,"current":340}
+{"_e":"metro:bundling:progress","_t":1789276019500,"id":"1","progress":0.4918198684432451,"total":509,"current":356}
+{"_e":"metro:bundling:progress","_t":1789276019603,"id":"1","progress":0.5047032691820337,"total":518,"current":368}
+{"_e":"metro:bundling:progress","_t":1789276019703,"id":"1","progress":0.5229659420983753,"total":531,"current":384}
+{"_e":"metro:bundling:progress","_t":1789276019810,"id":"1","progress":0.5479844830494182,"total":539,"current":399}
+{"_e":"metro:bundling:progress","_t":1789276019921,"id":"1","progress":0.5687557443086501,"total":541,"current":408}
+{"_e":"metro:bundling:progress","_t":1789276020021,"id":"1","progress":0.5701223338047611,"total":543,"current":410}
+{"_e":"metro:bundling:progress","_t":1789276020121,"id":"1","progress":0.6234181719372703,"total":556,"current":439}
+{"_e":"metro:bundling:progress","_t":1789276020221,"id":"1","progress":0.6825483999434745,"total":558,"current":461}
+{"_e":"metro:bundling:progress","_t":1789276020330,"id":"1","progress":0.7134794672416997,"total":573,"current":484}
+{"_e":"metro:bundling:progress","_t":1789276020435,"id":"1","progress":0.7712635595738608,"total":583,"current":512}
+{"_e":"metro:bundling:progress","_t":1789276020535,"id":"1","progress":0.7712635595738608,"total":628,"current":533}
+{"_e":"metro:bundling:progress","_t":1789276020636,"id":"1","progress":0.7712635595738608,"total":645,"current":553}
+{"_e":"metro:bundling:progress","_t":1789276020739,"id":"1","progress":0.7712635595738608,"total":674,"current":567}
+{"_e":"metro:bundling:progress","_t":1789276020843,"id":"1","progress":0.7712635595738608,"total":677,"current":575}
+{"_e":"metro:bundling:progress","_t":1789276020943,"id":"1","progress":0.7712635595738608,"total":681,"current":581}
+{"_e":"metro:bundling:progress","_t":1789276021119,"id":"1","progress":0.7712635595738608,"total":683,"current":584}
+{"_e":"metro:bundling:progress","_t":1789276021220,"id":"1","progress":0.7712635595738608,"total":694,"current":595}
+{"_e":"metro:bundling:progress","_t":1789276021324,"id":"1","progress":0.8020368357821617,"total":699,"current":626}
+{"_e":"metro:bundling:progress","_t":1789276021424,"id":"1","progress":0.8224878203075112,"total":709,"current":643}
+{"_e":"metro:bundling:progress","_t":1789276021525,"id":"1","progress":0.8224878203075112,"total":735,"current":660}
+{"_e":"metro:bundling:progress","_t":1789276021629,"id":"1","progress":0.8224878203075112,"total":754,"current":680}
+{"_e":"metro:bundling:progress","_t":1789276021729,"id":"1","progress":0.8382948220610559,"total":770,"current":705}
+{"_e":"metro:bundling:progress","_t":1789276021836,"id":"1","progress":0.851170153830297,"total":788,"current":727}
+{"_e":"metro:bundling:progress","_t":1789276021937,"id":"1","progress":0.8711111111111112,"total":795,"current":742}
+{"_e":"metro:bundling:progress","_t":1789276022037,"id":"1","progress":0.8889795918367347,"total":805,"current":759}
+{"_e":"metro:bundling:progress","_t":1789276022138,"id":"1","progress":0.8983742911153119,"total":805,"current":763}
+{"_e":"metro:bundling:progress","_t":1789276022158,"id":"1","progress":0.9007306816866633,"total":805,"current":764}
+{"_e":"metro:bundling:progress","_t":1789276022261,"id":"1","progress":0.9150370361248452,"total":806,"current":771}
+{"_e":"metro:bundling:progress","_t":1789276022364,"id":"1","progress":0.9414763258504067,"total":808,"current":784}
+{"_e":"metro:bundling:progress","_t":1789276022465,"id":"1","progress":0.9493754109138725,"total":819,"current":798}
+{"_e":"metro:bundling:progress","_t":1789276022566,"id":"1","progress":0.9806534195346723,"total":823,"current":815}
+{"_e":"metro:bundling:progress","_t":1789276022680,"id":"1","progress":0.9951632477179323,"total":826,"current":824}
+{"_e":"metro:bundling:progress","_t":1789276022979,"id":"1","progress":0.9975801581764564,"total":826,"current":825}
+{"_e":"metro:bundling:progress","_t":1789276023086,"id":"1","progress":0.997588909858405,"total":829,"current":828}
+{"_e":"metro:bundling:progress","_t":1789276023236,"id":"1","progress":0.999,"total":829,"current":829}
+{"_e":"metro:bundling:progress","_t":1789276023336,"id":"1","progress":0.999,"total":840,"current":840}
+{"_e":"metro:bundling:done","_t":1789276023527,"id":"1","total":840,"ms":7855.0764}
+{"_e":"metro:client_log","_t":1789276024685,"level":"warn","data":["expo-notifications: Push notifications (remote notifications) functionality provided by expo-notifications will be removed from Expo Go in SDK 53. Instead, use a development build. Read more at https://docs.expo.dev/develop/development-builds/introduction/."]}
+{"_e":"metro:client_log","_t":1789276024686,"level":"warn","data":["`expo-notifications` functionality is not fully supported in Expo Go:\nWe recommend you instead use a development build to avoid limitations. Learn more: https://expo.fyi/dev-client."]}
+{"_e":"metro:bundling:started","_t":1789276114875,"id":"2","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789276114875,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789276114913,"id":"2","total":1,"ms":37.1606}
+{"_e":"metro:client_log","_t":1789276115203,"level":"warn","data":["No native ExponentConstants module found, are you sure the expo-constants's module is linked properly?"]}
+{"_e":"metro:client_log","_t":1789276115203,"level":"error","data":["[runtime not ready]: Error: Cannot find native module 'ExpoAsset'"]}
+{"_e":"metro:client_log","_t":1789276115293,"level":"error","data":["[runtime not ready]: Invariant Violation: \"main\" has not been registered. This can happen if:\n* Metro (the local dev server) is run from the wrong folder. Check if Metro is running, stop it and restart it in the current project.\n* A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called."]}
+{"_e":"metro:client_log","_t":1789276120620,"level":"error","data":["[runtime not ready]: Error: Non-js exception: AppRegistryBinding::stopSurface failed. Global was not installed."]}
+{"_e":"metro:bundling:started","_t":1789276120641,"id":"3","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789276120641,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789276120669,"id":"3","total":1,"ms":28.1282}
+{"_e":"metro:client_log","_t":1789276122205,"level":"warn","data":["expo-notifications: Push notifications (remote notifications) functionality provided by expo-notifications will be removed from Expo Go in SDK 53. Instead, use a development build. Read more at https://docs.expo.dev/develop/development-builds/introduction/."]}
+{"_e":"metro:client_log","_t":1789276122205,"level":"warn","data":["`expo-notifications` functionality is not fully supported in Expo Go:\nWe recommend you instead use a development build to avoid limitations. Learn more: https://expo.fyi/dev-client."]}
+{"_e":"metro:bundling:started","_t":1789276222719,"id":"4","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789276222719,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789276222781,"id":"4","total":1,"ms":61.5181}
+{"_e":"metro:client_log","_t":1789276222913,"level":"warn","data":["No native ExponentConstants module found, are you sure the expo-constants's module is linked properly?"]}
+{"_e":"metro:client_log","_t":1789276222913,"level":"error","data":["[runtime not ready]: Error: Cannot find native module 'ExpoAsset'"]}
+{"_e":"metro:client_log","_t":1789276223019,"level":"error","data":["[runtime not ready]: Invariant Violation: \"main\" has not been registered. This can happen if:\n* Metro (the local dev server) is run from the wrong folder. Check if Metro is running, stop it and restart it in the current project.\n* A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called."]}
+{"_e":"metro:client_log","_t":1789276228224,"level":"error","data":["[runtime not ready]: Error: Non-js exception: AppRegistryBinding::stopSurface failed. Global was not installed."]}
+{"_e":"metro:bundling:started","_t":1789276228270,"id":"5","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789276228270,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789276228301,"id":"5","total":1,"ms":31.2499}
+{"_e":"metro:client_log","_t":1789276229447,"level":"warn","data":["expo-notifications: Push notifications (remote notifications) functionality provided by expo-notifications will be removed from Expo Go in SDK 53. Instead, use a development build. Read more at https://docs.expo.dev/develop/development-builds/introduction/."]}
+{"_e":"metro:client_log","_t":1789276229447,"level":"warn","data":["`expo-notifications` functionality is not fully supported in Expo Go:\nWe recommend you instead use a development build to avoid limitations. Learn more: https://expo.fyi/dev-client."]}
+{"_e":"metro:bundling:started","_t":1789276334978,"id":"6","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789276334978,"id":"6","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789276335009,"id":"6","total":1,"ms":31.2702}
+{"_e":"metro:client_log","_t":1789276335145,"level":"warn","data":["No native ExponentConstants module found, are you sure the expo-constants's module is linked properly?"]}
+{"_e":"metro:client_log","_t":1789276335145,"level":"error","data":["[runtime not ready]: Error: Cannot find native module 'ExpoAsset'"]}
+{"_e":"metro:client_log","_t":1789276335201,"level":"error","data":["[runtime not ready]: Invariant Violation: \"main\" has not been registered. This can happen if:\n* Metro (the local dev server) is run from the wrong folder. Check if Metro is running, stop it and restart it in the current project.\n* A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called."]}
+{"_e":"metro:client_log","_t":1789276339805,"level":"error","data":["[runtime not ready]: Error: Non-js exception: AppRegistryBinding::stopSurface failed. Global was not installed."]}
+{"_e":"metro:bundling:started","_t":1789276339827,"id":"7","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789276339828,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789276339870,"id":"7","total":1,"ms":42.2567}
+{"_e":"metro:client_log","_t":1789276341153,"level":"warn","data":["expo-notifications: Push notifications (remote notifications) functionality provided by expo-notifications will be removed from Expo Go in SDK 53. Instead, use a development build. Read more at https://docs.expo.dev/develop/development-builds/introduction/."]}
+{"_e":"metro:client_log","_t":1789276341153,"level":"warn","data":["`expo-notifications` functionality is not fully supported in Expo Go:\nWe recommend you instead use a development build to avoid limitations. Learn more: https://expo.fyi/dev-client."]}
+{"_e":"metro:bundling:started","_t":1789276421336,"id":"8","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789276421336,"id":"8","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789276421368,"id":"8","total":1,"ms":31.9037}
+{"_e":"metro:client_log","_t":1789276421578,"level":"warn","data":["No native ExponentConstants module found, are you sure the expo-constants's module is linked properly?"]}
+{"_e":"metro:client_log","_t":1789276421578,"level":"error","data":["[runtime not ready]: Error: Cannot find native module 'ExpoAsset'"]}
+{"_e":"metro:client_log","_t":1789276421832,"level":"error","data":["[runtime not ready]: Invariant Violation: \"main\" has not been registered. This can happen if:\n* Metro (the local dev server) is run from the wrong folder. Check if Metro is running, stop it and restart it in the current project.\n* A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called."]}
+{"_e":"metro:client_log","_t":1789276424711,"level":"error","data":["[runtime not ready]: Error: Non-js exception: AppRegistryBinding::stopSurface failed. Global was not installed."]}
+{"_e":"metro:bundling:started","_t":1789276424730,"id":"9","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789276424730,"id":"9","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789276424757,"id":"9","total":1,"ms":26.621}
+{"_e":"metro:client_log","_t":1789276426043,"level":"warn","data":["expo-notifications: Push notifications (remote notifications) functionality provided by expo-notifications will be removed from Expo Go in SDK 53. Instead, use a development build. Read more at https://docs.expo.dev/develop/development-builds/introduction/."]}
+{"_e":"metro:client_log","_t":1789276426043,"level":"warn","data":["`expo-notifications` functionality is not fully supported in Expo Go:\nWe recommend you instead use a development build to avoid limitations. Learn more: https://expo.fyi/dev-client."]}
+{"_e":"metro:bundling:started","_t":1789276499822,"id":"a","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789276499822,"id":"a","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789276499864,"id":"a","total":1,"ms":41.9577}
+{"_e":"metro:client_log","_t":1789276499975,"level":"warn","data":["No native ExponentConstants module found, are you sure the expo-constants's module is linked properly?"]}
+{"_e":"metro:client_log","_t":1789276499975,"level":"error","data":["[runtime not ready]: Error: Cannot find native module 'ExpoAsset'"]}
+{"_e":"metro:client_log","_t":1789276500035,"level":"error","data":["[runtime not ready]: Invariant Violation: \"main\" has not been registered. This can happen if:\n* Metro (the local dev server) is run from the wrong folder. Check if Metro is running, stop it and restart it in the current project.\n* A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called."]}
+{"_e":"metro:client_log","_t":1789276504209,"level":"error","data":["[runtime not ready]: Error: Non-js exception: AppRegistryBinding::stopSurface failed. Global was not installed."]}
+{"_e":"metro:bundling:started","_t":1789276504231,"id":"b","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789276504231,"id":"b","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789276504262,"id":"b","total":1,"ms":30.7111}
+{"_e":"metro:client_log","_t":1789276505746,"level":"warn","data":["expo-notifications: Push notifications (remote notifications) functionality provided by expo-notifications will be removed from Expo Go in SDK 53. Instead, use a development build. Read more at https://docs.expo.dev/develop/development-builds/introduction/."]}
+{"_e":"metro:client_log","_t":1789276505746,"level":"warn","data":["`expo-notifications` functionality is not fully supported in Expo Go:\nWe recommend you instead use a development build to avoid limitations. Learn more: https://expo.fyi/dev-client."]}
+{"_e":"metro:bundling:started","_t":1789276564632,"id":"c","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789276564632,"id":"c","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789276564658,"id":"c","total":1,"ms":26.1922}
+{"_e":"metro:client_log","_t":1789276564827,"level":"warn","data":["No native ExponentConstants module found, are you sure the expo-constants's module is linked properly?"]}
+{"_e":"metro:client_log","_t":1789276564827,"level":"error","data":["[runtime not ready]: Error: Cannot find native module 'ExpoAsset'"]}
+{"_e":"metro:client_log","_t":1789276564857,"level":"error","data":["[runtime not ready]: Invariant Violation: \"main\" has not been registered. This can happen if:\n* Metro (the local dev server) is run from the wrong folder. Check if Metro is running, stop it and restart it in the current project.\n* A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called."]}
+{"_e":"metro:client_log","_t":1789276568561,"level":"error","data":["[runtime not ready]: Error: Non-js exception: AppRegistryBinding::stopSurface failed. Global was not installed."]}
+{"_e":"metro:bundling:started","_t":1789276568584,"id":"d","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789276568584,"id":"d","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789276568612,"id":"d","total":1,"ms":28.4007}
+{"_e":"metro:client_log","_t":1789276569857,"level":"warn","data":["expo-notifications: Push notifications (remote notifications) functionality provided by expo-notifications will be removed from Expo Go in SDK 53. Instead, use a development build. Read more at https://docs.expo.dev/develop/development-builds/introduction/."]}
+{"_e":"metro:client_log","_t":1789276569857,"level":"warn","data":["`expo-notifications` functionality is not fully supported in Expo Go:\nWe recommend you instead use a development build to avoid limitations. Learn more: https://expo.fyi/dev-client."]}
+{"_e":"metro:bundling:started","_t":1789276835192,"id":"e","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789276835192,"id":"e","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789276835227,"id":"e","total":1,"ms":35.3885}
+{"_e":"metro:client_log","_t":1789276835389,"level":"warn","data":["No native ExponentConstants module found, are you sure the expo-constants's module is linked properly?"]}
+{"_e":"metro:client_log","_t":1789276835389,"level":"error","data":["[runtime not ready]: Error: Cannot find native module 'ExpoAsset'"]}
+{"_e":"metro:client_log","_t":1789276835415,"level":"error","data":["[runtime not ready]: Invariant Violation: \"main\" has not been registered. This can happen if:\n* Metro (the local dev server) is run from the wrong folder. Check if Metro is running, stop it and restart it in the current project.\n* A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called."]}
+{"_e":"metro:client_log","_t":1789276839366,"level":"error","data":["[runtime not ready]: Error: Non-js exception: AppRegistryBinding::stopSurface failed. Global was not installed."]}
+{"_e":"metro:bundling:started","_t":1789276839391,"id":"f","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789276839392,"id":"f","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789276839418,"id":"f","total":1,"ms":26.4093}
+{"_e":"metro:client_log","_t":1789276840950,"level":"warn","data":["expo-notifications: Push notifications (remote notifications) functionality provided by expo-notifications will be removed from Expo Go in SDK 53. Instead, use a development build. Read more at https://docs.expo.dev/develop/development-builds/introduction/."]}
+{"_e":"metro:client_log","_t":1789276840950,"level":"warn","data":["`expo-notifications` functionality is not fully supported in Expo Go:\nWe recommend you instead use a development build to avoid limitations. Learn more: https://expo.fyi/dev-client."]}
+{"_e":"metro:bundling:started","_t":1789276900245,"id":"g","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789276900245,"id":"g","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789276900279,"id":"g","total":1,"ms":33.9644}
+{"_e":"metro:client_log","_t":1789276900302,"level":"warn","data":["No native ExponentConstants module found, are you sure the expo-constants's module is linked properly?"]}
+{"_e":"metro:client_log","_t":1789276900302,"level":"error","data":["[runtime not ready]: Error: Cannot find native module 'ExpoAsset'"]}
+{"_e":"metro:client_log","_t":1789276900322,"level":"error","data":["[runtime not ready]: Invariant Violation: \"main\" has not been registered. This can happen if:\n* Metro (the local dev server) is run from the wrong folder. Check if Metro is running, stop it and restart it in the current project.\n* A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called."]}
+{"_e":"metro:client_log","_t":1789276903059,"level":"error","data":["[runtime not ready]: Error: Non-js exception: AppRegistryBinding::stopSurface failed. Global was not installed."]}
+{"_e":"metro:bundling:started","_t":1789276903085,"id":"h","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789276903085,"id":"h","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789276903111,"id":"h","total":1,"ms":25.4968}
+{"_e":"metro:client_log","_t":1789276904131,"level":"warn","data":["expo-notifications: Push notifications (remote notifications) functionality provided by expo-notifications will be removed from Expo Go in SDK 53. Instead, use a development build. Read more at https://docs.expo.dev/develop/development-builds/introduction/."]}
+{"_e":"metro:client_log","_t":1789276904132,"level":"warn","data":["`expo-notifications` functionality is not fully supported in Expo Go:\nWe recommend you instead use a development build to avoid limitations. Learn more: https://expo.fyi/dev-client."]}
+{"_e":"metro:server_log","_t":1789277176490,"level":"error","data":["[timeout] connection terminated with Device for app='%s' on device='%s' after not responding for %s seconds.","host.exp.Exponent","iPhone","60"]}
+{"_e":"metro:bundling:started","_t":1789277201766,"id":"i","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789277201767,"id":"i","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789277201813,"id":"i","total":1,"ms":46.7639}
+{"_e":"metro:client_log","_t":1789277201947,"level":"warn","data":["No native ExponentConstants module found, are you sure the expo-constants's module is linked properly?"]}
+{"_e":"metro:client_log","_t":1789277201947,"level":"error","data":["[runtime not ready]: Error: Cannot find native module 'ExpoAsset'"]}
+{"_e":"metro:client_log","_t":1789277201970,"level":"error","data":["[runtime not ready]: Invariant Violation: \"main\" has not been registered. This can happen if:\n* Metro (the local dev server) is run from the wrong folder. Check if Metro is running, stop it and restart it in the current project.\n* A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called."]}
+{"_e":"metro:client_log","_t":1789277206103,"level":"error","data":["[runtime not ready]: Error: Non-js exception: AppRegistryBinding::stopSurface failed. Global was not installed."]}
+{"_e":"metro:bundling:started","_t":1789277206124,"id":"j","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789277206124,"id":"j","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789277206162,"id":"j","total":1,"ms":38.4233}
+{"_e":"metro:client_log","_t":1789277207212,"level":"warn","data":["expo-notifications: Push notifications (remote notifications) functionality provided by expo-notifications will be removed from Expo Go in SDK 53. Instead, use a development build. Read more at https://docs.expo.dev/develop/development-builds/introduction/."]}
+{"_e":"metro:client_log","_t":1789277207212,"level":"warn","data":["`expo-notifications` functionality is not fully supported in Expo Go:\nWe recommend you instead use a development build to avoid limitations. Learn more: https://expo.fyi/dev-client."]}
+{"_e":"metro:bundling:started","_t":1789277616846,"id":"k","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789277616846,"id":"k","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789277616847,"id":"k","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789277616955,"id":"k","total":1,"ms":108.2745}
+{"_e":"metro:client_log","_t":1789277618714,"level":"warn","data":["expo-notifications: Push notifications (remote notifications) functionality provided by expo-notifications will be removed from Expo Go in SDK 53. Instead, use a development build. Read more at https://docs.expo.dev/develop/development-builds/introduction/."]}
+{"_e":"metro:client_log","_t":1789277618714,"level":"warn","data":["`expo-notifications` functionality is not fully supported in Expo Go:\nWe recommend you instead use a development build to avoid limitations. Learn more: https://expo.fyi/dev-client."]}
+{"_e":"metro:bundling:started","_t":1789277807285,"id":"l","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789277807285,"id":"l","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789277807320,"id":"l","total":1,"ms":35.327}
+{"_e":"metro:client_log","_t":1789277807423,"level":"warn","data":["No native ExponentConstants module found, are you sure the expo-constants's module is linked properly?"]}
+{"_e":"metro:client_log","_t":1789277807423,"level":"error","data":["[runtime not ready]: Error: Cannot find native module 'ExpoAsset'"]}
+{"_e":"metro:client_log","_t":1789277807438,"level":"error","data":["[runtime not ready]: Invariant Violation: \"main\" has not been registered. This can happen if:\n* Metro (the local dev server) is run from the wrong folder. Check if Metro is running, stop it and restart it in the current project.\n* A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called."]}
+{"_e":"metro:client_log","_t":1789277812118,"level":"error","data":["[runtime not ready]: Error: Non-js exception: AppRegistryBinding::stopSurface failed. Global was not installed."]}
+{"_e":"metro:bundling:started","_t":1789277812143,"id":"m","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789277812144,"id":"m","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789277812182,"id":"m","total":1,"ms":38.7134}
+{"_e":"metro:client_log","_t":1789277813264,"level":"warn","data":["expo-notifications: Push notifications (remote notifications) functionality provided by expo-notifications will be removed from Expo Go in SDK 53. Instead, use a development build. Read more at https://docs.expo.dev/develop/development-builds/introduction/."]}
+{"_e":"metro:client_log","_t":1789277813264,"level":"warn","data":["`expo-notifications` functionality is not fully supported in Expo Go:\nWe recommend you instead use a development build to avoid limitations. Learn more: https://expo.fyi/dev-client."]}
+{"_e":"metro:server_log","_t":1789277962716,"level":"error","data":["[timeout] connection terminated with Device for app='%s' on device='%s' after not responding for %s seconds.","host.exp.Exponent","iPhone","60"]}
+{"_e":"metro:bundling:started","_t":1789278104042,"id":"n","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789278104043,"id":"n","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789278104044,"id":"n","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789278104158,"id":"n","total":1,"ms":115.6124}
+{"_e":"metro:client_log","_t":1789278105512,"level":"warn","data":["expo-notifications: Push notifications (remote notifications) functionality provided by expo-notifications will be removed from Expo Go in SDK 53. Instead, use a development build. Read more at https://docs.expo.dev/develop/development-builds/introduction/."]}
+{"_e":"metro:client_log","_t":1789278105512,"level":"warn","data":["`expo-notifications` functionality is not fully supported in Expo Go:\nWe recommend you instead use a development build to avoid limitations. Learn more: https://expo.fyi/dev-client."]}
+{"_e":"metro:bundling:started","_t":1789278253730,"id":"o","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789278253730,"id":"o","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789278253757,"id":"o","total":1,"ms":27.3055}
+{"_e":"metro:client_log","_t":1789278254018,"level":"warn","data":["No native ExponentConstants module found, are you sure the expo-constants's module is linked properly?"]}
+{"_e":"metro:client_log","_t":1789278254018,"level":"error","data":["[runtime not ready]: Error: Cannot find native module 'ExpoAsset'"]}
+{"_e":"metro:client_log","_t":1789278254152,"level":"error","data":["[runtime not ready]: Invariant Violation: \"main\" has not been registered. This can happen if:\n* Metro (the local dev server) is run from the wrong folder. Check if Metro is running, stop it and restart it in the current project.\n* A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called."]}
+{"_e":"metro:client_log","_t":1789278256893,"level":"error","data":["[runtime not ready]: Error: Non-js exception: AppRegistryBinding::stopSurface failed. Global was not installed."]}
+{"_e":"metro:bundling:started","_t":1789278256903,"id":"p","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789278256903,"id":"p","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789278256929,"id":"p","total":1,"ms":26.1211}
+{"_e":"metro:client_log","_t":1789278258060,"level":"warn","data":["expo-notifications: Push notifications (remote notifications) functionality provided by expo-notifications will be removed from Expo Go in SDK 53. Instead, use a development build. Read more at https://docs.expo.dev/develop/development-builds/introduction/."]}
+{"_e":"metro:client_log","_t":1789278258060,"level":"warn","data":["`expo-notifications` functionality is not fully supported in Expo Go:\nWe recommend you instead use a development build to avoid limitations. Learn more: https://expo.fyi/dev-client."]}
+{"_e":"metro:bundling:started","_t":1789278383289,"id":"q","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789278383289,"id":"q","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789278383347,"id":"q","total":1,"ms":57.3771}
+{"_e":"metro:client_log","_t":1789278383472,"level":"warn","data":["No native ExponentConstants module found, are you sure the expo-constants's module is linked properly?"]}
+{"_e":"metro:client_log","_t":1789278383472,"level":"error","data":["[runtime not ready]: Error: Cannot find native module 'ExpoAsset'"]}
+{"_e":"metro:client_log","_t":1789278383538,"level":"error","data":["[runtime not ready]: Invariant Violation: \"main\" has not been registered. This can happen if:\n* Metro (the local dev server) is run from the wrong folder. Check if Metro is running, stop it and restart it in the current project.\n* A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called."]}
+{"_e":"metro:client_log","_t":1789278386114,"level":"error","data":["[runtime not ready]: Error: Non-js exception: AppRegistryBinding::stopSurface failed. Global was not installed."]}
+{"_e":"metro:bundling:started","_t":1789278386142,"id":"r","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789278386142,"id":"r","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789278386168,"id":"r","total":1,"ms":26.2664}
+{"_e":"metro:client_log","_t":1789278387801,"level":"warn","data":["expo-notifications: Push notifications (remote notifications) functionality provided by expo-notifications will be removed from Expo Go in SDK 53. Instead, use a development build. Read more at https://docs.expo.dev/develop/development-builds/introduction/."]}
+{"_e":"metro:client_log","_t":1789278387801,"level":"warn","data":["`expo-notifications` functionality is not fully supported in Expo Go:\nWe recommend you instead use a development build to avoid limitations. Learn more: https://expo.fyi/dev-client."]}
+{"_e":"metro:bundling:started","_t":1789278539905,"id":"s","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789278539905,"id":"s","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789278539907,"id":"s","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789278540007,"id":"s","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789278540072,"id":"s","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789278540172,"id":"s","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789278540272,"id":"s","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789278540373,"id":"s","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789278540473,"id":"s","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789278540585,"id":"s","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789278540640,"id":"s","total":1,"ms":735.2645}
+{"_e":"metro:client_log","_t":1789278542094,"level":"warn","data":["expo-notifications: Push notifications (remote notifications) functionality provided by expo-notifications will be removed from Expo Go in SDK 53. Instead, use a development build. Read more at https://docs.expo.dev/develop/development-builds/introduction/."]}
+{"_e":"metro:client_log","_t":1789278542095,"level":"warn","data":["`expo-notifications` functionality is not fully supported in Expo Go:\nWe recommend you instead use a development build to avoid limitations. Learn more: https://expo.fyi/dev-client."]}
+{"_e":"metro:bundling:started","_t":1789278688666,"id":"t","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789278688666,"id":"t","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789278688696,"id":"t","total":1,"ms":30.3465}
+{"_e":"metro:client_log","_t":1789278688920,"level":"warn","data":["No native ExponentConstants module found, are you sure the expo-constants's module is linked properly?"]}
+{"_e":"metro:client_log","_t":1789278688920,"level":"error","data":["[runtime not ready]: Error: Cannot find native module 'ExpoAsset'"]}
+{"_e":"metro:client_log","_t":1789278688989,"level":"error","data":["[runtime not ready]: Invariant Violation: \"main\" has not been registered. This can happen if:\n* Metro (the local dev server) is run from the wrong folder. Check if Metro is running, stop it and restart it in the current project.\n* A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called."]}
+{"_e":"metro:client_log","_t":1789278692585,"level":"error","data":["[runtime not ready]: Error: Non-js exception: AppRegistryBinding::stopSurface failed. Global was not installed."]}
+{"_e":"metro:bundling:started","_t":1789278692598,"id":"u","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789278692598,"id":"u","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789278692629,"id":"u","total":1,"ms":31.232}
+{"_e":"metro:client_log","_t":1789278693880,"level":"warn","data":["expo-notifications: Push notifications (remote notifications) functionality provided by expo-notifications will be removed from Expo Go in SDK 53. Instead, use a development build. Read more at https://docs.expo.dev/develop/development-builds/introduction/."]}
+{"_e":"metro:client_log","_t":1789278693880,"level":"warn","data":["`expo-notifications` functionality is not fully supported in Expo Go:\nWe recommend you instead use a development build to avoid limitations. Learn more: https://expo.fyi/dev-client."]}
+{"_e":"root:init","_t":1789279949571,"format":"v0-jsonl","version":"57.0.24"}
+{"_e":"env:mode","_t":1789279949572,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1789279949574,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1789279949938,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1789279950551,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1789279950909,"plugins":[]}
+{"_e":"metro:instantiate","_t":1789279955336,"atlas":false,"workers":6,"host":"::","port":8081}
+{"_e":"root:init","_t":1789280306255,"format":"v0-jsonl","version":"57.0.24"}
+{"_e":"env:mode","_t":1789280306257,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1789280306259,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1789280306553,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1789280307020,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1789280307414,"plugins":[]}
+{"_e":"metro:instantiate","_t":1789280311484,"atlas":false,"workers":6,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1789280391875,"id":"1","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789280391875,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789280391890,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789280391990,"id":"1","progress":0.001826283877565929,"total":117,"current":5}
+{"_e":"metro:bundling:progress","_t":1789280392090,"id":"1","progress":0.1338488994646044,"total":205,"current":75}
+{"_e":"metro:bundling:progress","_t":1789280392191,"id":"1","progress":0.24404783247875508,"total":334,"current":165}
+{"_e":"metro:bundling:progress","_t":1789280392291,"id":"1","progress":0.3844578110312376,"total":429,"current":266}
+{"_e":"metro:bundling:progress","_t":1789280392391,"id":"1","progress":0.6832888917793966,"total":496,"current":410}
+{"_e":"metro:bundling:progress","_t":1789280392491,"id":"1","progress":0.7723590257312257,"total":586,"current":515}
+{"_e":"metro:bundling:progress","_t":1789280392591,"id":"1","progress":0.8520710059171599,"total":663,"current":612}
+{"_e":"metro:bundling:progress","_t":1789280392694,"id":"1","progress":0.9428691451375761,"total":690,"current":670}
+{"_e":"metro:bundling:progress","_t":1789280392794,"id":"1","progress":0.9971570732220579,"total":703,"current":702}
+{"_e":"metro:bundling:progress","_t":1789280393313,"id":"1","progress":0.999,"total":703,"current":703}
+{"_e":"metro:bundling:failed","_t":1789280393334,"id":"1","message":"Unable to resolve \"firebase/firestore\" from \"App.js\"\n  4 | import * as Notifications from 'expo-notifications';\n  5 | import { db } from './firebase';\n> 6 | import { doc, getDoc, setDoc, onSnapshot } from 'firebase/firestore';\n    |                                                  ^\n  7 |\n  8 | Notifications.setNotificationHandler({\n  9 |   handleNotification: async () => ({","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mApp.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"firebase/firestore\"\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90mnode_modules\\expo\\AppEntry.js\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"../../App\"\u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"./node_modules/\u001b[1mexpo\u001b[22m/AppEntry\"\u001b[39m\u001b[90m\u001b[39m\n","filename":null,"targetModuleName":"firebase/firestore","originModulePath":"App.js"}
+{"_e":"root:init","_t":1789280939278,"format":"v0-jsonl","version":"57.0.24"}
+{"_e":"env:mode","_t":1789280939279,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1789280939283,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1789280939619,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1789280940349,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1789280941227,"plugins":[]}
+{"_e":"metro:instantiate","_t":1789280947637,"atlas":false,"workers":6,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1789280958920,"id":"1","platform":"ios","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1789280958921,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789280958931,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789280960593,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1789280960693,"id":"1","progress":0.010000000000000002,"total":3,"current":1}
+{"_e":"metro:bundling:progress","_t":1789280960891,"id":"1","progress":0.04000000000000001,"total":3,"current":2}
+{"_e":"metro:bundling:progress","_t":1789280961002,"id":"1","progress":0.08650519031141869,"total":17,"current":5}
+{"_e":"metro:bundling:progress","_t":1789280961203,"id":"1","progress":0.12456747404844293,"total":17,"current":6}
+{"_e":"metro:bundling:progress","_t":1789280961303,"id":"1","progress":0.12456747404844293,"total":48,"current":9}
+{"_e":"metro:bundling:progress","_t":1789280961413,"id":"1","progress":0.12456747404844293,"total":49,"current":16}
+{"_e":"metro:bundling:progress","_t":1789280961518,"id":"1","progress":0.1322314049586777,"total":55,"current":20}
+{"_e":"metro:bundling:progress","_t":1789280961632,"id":"1","progress":0.19041322314049586,"total":55,"current":24}
+{"_e":"metro:bundling:progress","_t":1789280961735,"id":"1","progress":0.2681760204081633,"total":56,"current":29}
+{"_e":"metro:bundling:progress","_t":1789280961844,"id":"1","progress":0.38525564803804996,"total":58,"current":36}
+{"_e":"metro:bundling:progress","_t":1789280961954,"id":"1","progress":0.4244719926538108,"total":66,"current":43}
+{"_e":"metro:bundling:progress","_t":1789280962061,"id":"1","progress":0.5794163510804188,"total":67,"current":51}
+{"_e":"metro:bundling:progress","_t":1789280962161,"id":"1","progress":0.5884781384875211,"total":73,"current":56}
+{"_e":"metro:bundling:progress","_t":1789280962263,"id":"1","progress":0.5884781384875211,"total":89,"current":62}
+{"_e":"metro:bundling:progress","_t":1789280962364,"id":"1","progress":0.5884781384875211,"total":193,"current":65}
+{"_e":"metro:bundling:progress","_t":1789280962464,"id":"1","progress":0.5884781384875211,"total":258,"current":74}
+{"_e":"metro:bundling:progress","_t":1789280962576,"id":"1","progress":0.5884781384875211,"total":263,"current":79}
+{"_e":"metro:bundling:progress","_t":1789280962681,"id":"1","progress":0.5884781384875211,"total":270,"current":89}
+{"_e":"metro:bundling:progress","_t":1789280962785,"id":"1","progress":0.5884781384875211,"total":271,"current":94}
+{"_e":"metro:bundling:progress","_t":1789280962893,"id":"1","progress":0.5884781384875211,"total":272,"current":97}
+{"_e":"metro:bundling:progress","_t":1789280962993,"id":"1","progress":0.5884781384875211,"total":292,"current":108}
+{"_e":"metro:bundling:progress","_t":1789280963093,"id":"1","progress":0.5884781384875211,"total":299,"current":115}
+{"_e":"metro:bundling:progress","_t":1789280963200,"id":"1","progress":0.5884781384875211,"total":304,"current":119}
+{"_e":"metro:bundling:progress","_t":1789280963301,"id":"1","progress":0.5884781384875211,"total":326,"current":132}
+{"_e":"metro:bundling:progress","_t":1789280963404,"id":"1","progress":0.5884781384875211,"total":345,"current":153}
+{"_e":"metro:bundling:progress","_t":1789280963506,"id":"1","progress":0.5884781384875211,"total":364,"current":172}
+{"_e":"metro:bundling:progress","_t":1789280963608,"id":"1","progress":0.5884781384875211,"total":378,"current":197}
+{"_e":"metro:bundling:progress","_t":1789280963708,"id":"1","progress":0.5884781384875211,"total":391,"current":226}
+{"_e":"metro:bundling:progress","_t":1789280963808,"id":"1","progress":0.5884781384875211,"total":398,"current":241}
+{"_e":"metro:bundling:progress","_t":1789280963911,"id":"1","progress":0.5884781384875211,"total":420,"current":255}
+{"_e":"metro:bundling:progress","_t":1789280964011,"id":"1","progress":0.5884781384875211,"total":421,"current":259}
+{"_e":"metro:bundling:progress","_t":1789280964146,"id":"1","progress":0.5884781384875211,"total":421,"current":260}
+{"_e":"metro:bundling:progress","_t":1789280964251,"id":"1","progress":0.5884781384875211,"total":430,"current":265}
+{"_e":"metro:bundling:progress","_t":1789280964351,"id":"1","progress":0.5884781384875211,"total":436,"current":274}
+{"_e":"metro:bundling:progress","_t":1789280964463,"id":"1","progress":0.5884781384875211,"total":443,"current":280}
+{"_e":"metro:bundling:progress","_t":1789280964562,"id":"1","progress":0.5884781384875211,"total":450,"current":293}
+{"_e":"metro:bundling:progress","_t":1789280964664,"id":"1","progress":0.5884781384875211,"total":455,"current":297}
+{"_e":"metro:bundling:progress","_t":1789280964775,"id":"1","progress":0.5884781384875211,"total":461,"current":307}
+{"_e":"metro:bundling:progress","_t":1789280964882,"id":"1","progress":0.5884781384875211,"total":468,"current":318}
+{"_e":"metro:bundling:progress","_t":1789280964981,"id":"1","progress":0.5884781384875211,"total":494,"current":328}
+{"_e":"metro:bundling:progress","_t":1789280965081,"id":"1","progress":0.5884781384875211,"total":514,"current":340}
+{"_e":"metro:bundling:progress","_t":1789280965203,"id":"1","progress":0.5884781384875211,"total":529,"current":358}
+{"_e":"metro:bundling:progress","_t":1789280965305,"id":"1","progress":0.5884781384875211,"total":542,"current":369}
+{"_e":"metro:bundling:progress","_t":1789280965404,"id":"1","progress":0.5884781384875211,"total":544,"current":379}
+{"_e":"metro:bundling:progress","_t":1789280965508,"id":"1","progress":0.5884781384875211,"total":548,"current":387}
+{"_e":"metro:bundling:progress","_t":1789280965608,"id":"1","progress":0.5884781384875211,"total":551,"current":399}
+{"_e":"metro:bundling:progress","_t":1789280965708,"id":"1","progress":0.5884781384875211,"total":587,"current":415}
+{"_e":"metro:bundling:progress","_t":1789280965809,"id":"1","progress":0.5884781384875211,"total":597,"current":424}
+{"_e":"metro:bundling:progress","_t":1789280965916,"id":"1","progress":0.5884781384875211,"total":605,"current":435}
+{"_e":"metro:bundling:progress","_t":1789280966024,"id":"1","progress":0.5884781384875211,"total":613,"current":436}
+{"_e":"metro:bundling:progress","_t":1789280966124,"id":"1","progress":0.5884781384875211,"total":625,"current":447}
+{"_e":"metro:bundling:progress","_t":1789280966226,"id":"1","progress":0.5884781384875211,"total":626,"current":460}
+{"_e":"metro:bundling:progress","_t":1789280966326,"id":"1","progress":0.5884781384875211,"total":637,"current":472}
+{"_e":"metro:bundling:progress","_t":1789280966426,"id":"1","progress":0.5884781384875211,"total":639,"current":481}
+{"_e":"metro:bundling:progress","_t":1789280966531,"id":"1","progress":0.5915313679629869,"total":641,"current":493}
+{"_e":"metro:bundling:progress","_t":1789280966642,"id":"1","progress":0.6100483198950657,"total":644,"current":503}
+{"_e":"metro:bundling:progress","_t":1789280966742,"id":"1","progress":0.6209730510310264,"total":651,"current":513}
+{"_e":"metro:bundling:progress","_t":1789280966846,"id":"1","progress":0.6400000000000001,"total":655,"current":524}
+{"_e":"metro:bundling:progress","_t":1789280966950,"id":"1","progress":0.6507602241636143,"total":657,"current":530}
+{"_e":"metro:bundling:progress","_t":1789280967050,"id":"1","progress":0.6818755739210285,"total":660,"current":545}
+{"_e":"metro:bundling:progress","_t":1789280967150,"id":"1","progress":0.7120724327931535,"total":666,"current":562}
+{"_e":"metro:bundling:progress","_t":1789280967254,"id":"1","progress":0.7376385394403412,"total":666,"current":572}
+{"_e":"metro:bundling:progress","_t":1789280967363,"id":"1","progress":0.7470262180106333,"total":678,"current":586}
+{"_e":"metro:bundling:progress","_t":1789280967463,"id":"1","progress":0.7608700689457598,"total":689,"current":601}
+{"_e":"metro:bundling:progress","_t":1789280967565,"id":"1","progress":0.7776495112491592,"total":694,"current":612}
+{"_e":"metro:bundling:progress","_t":1789280967673,"id":"1","progress":0.7982813307076446,"total":704,"current":629}
+{"_e":"metro:bundling:progress","_t":1789280967774,"id":"1","progress":0.8271477986351878,"total":707,"current":643}
+{"_e":"metro:bundling:progress","_t":1789280967881,"id":"1","progress":0.8271477986351878,"total":718,"current":653}
+{"_e":"metro:bundling:progress","_t":1789280967981,"id":"1","progress":0.8402777777777777,"total":720,"current":660}
+{"_e":"metro:bundling:progress","_t":1789280968082,"id":"1","progress":0.8402777777777777,"total":729,"current":668}
+{"_e":"metro:bundling:progress","_t":1789280968182,"id":"1","progress":0.8582735041465896,"total":734,"current":680}
+{"_e":"metro:bundling:progress","_t":1789280968312,"id":"1","progress":0.8582735041465896,"total":740,"current":685}
+{"_e":"metro:bundling:progress","_t":1789280968445,"id":"1","progress":0.8652745371830098,"total":745,"current":693}
+{"_e":"metro:bundling:progress","_t":1789280968546,"id":"1","progress":0.8652745371830098,"total":754,"current":701}
+{"_e":"metro:bundling:progress","_t":1789280968653,"id":"1","progress":0.8673342070224362,"total":757,"current":705}
+{"_e":"metro:bundling:progress","_t":1789280968755,"id":"1","progress":0.8680068586702951,"total":761,"current":709}
+{"_e":"metro:bundling:progress","_t":1789280968857,"id":"1","progress":0.88320632658096,"total":764,"current":718}
+{"_e":"metro:bundling:progress","_t":1789280968960,"id":"1","progress":0.8837958441840277,"total":768,"current":722}
+{"_e":"metro:bundling:progress","_t":1789280969061,"id":"1","progress":0.8914302580536347,"total":770,"current":727}
+{"_e":"metro:bundling:progress","_t":1789280969162,"id":"1","progress":0.9191242455775235,"total":775,"current":743}
+{"_e":"metro:bundling:progress","_t":1789280969263,"id":"1","progress":0.9318816625771825,"total":779,"current":752}
+{"_e":"metro:bundling:progress","_t":1789280969374,"id":"1","progress":0.9318816625771825,"total":797,"current":769}
+{"_e":"metro:bundling:progress","_t":1789280969488,"id":"1","progress":0.9318816625771825,"total":825,"current":780}
+{"_e":"metro:bundling:progress","_t":1789280969589,"id":"1","progress":0.9501563077847633,"total":832,"current":811}
+{"_e":"metro:bundling:progress","_t":1789280969691,"id":"1","progress":0.9810655170999928,"total":841,"current":833}
+{"_e":"metro:bundling:progress","_t":1789280969805,"id":"1","progress":0.9928952267575132,"total":843,"current":840}
+{"_e":"metro:bundling:progress","_t":1789280970091,"id":"1","progress":0.9952606701761348,"total":843,"current":841}
+{"_e":"metro:bundling:progress","_t":1789280970229,"id":"1","progress":0.9976317355854539,"total":844,"current":843}
+{"_e":"metro:bundling:progress","_t":1789280970331,"id":"1","progress":0.999,"total":857,"current":857}
+{"_e":"metro:bundling:done","_t":1789280970684,"id":"1","total":857,"ms":11763.6365}
+{"_e":"metro:client_log","_t":1789280976644,"level":"warn","data":["expo-notifications: Push notifications (remote notifications) functionality provided by expo-notifications will be removed from Expo Go in SDK 53. Instead, use a development build. Read more at https://docs.expo.dev/develop/development-builds/introduction/."]}
+{"_e":"metro:client_log","_t":1789280976648,"level":"warn","data":["`expo-notifications` functionality is not fully supported in Expo Go:\nWe recommend you instead use a development build to avoid limitations. Learn more: https://expo.fyi/dev-client."]}
